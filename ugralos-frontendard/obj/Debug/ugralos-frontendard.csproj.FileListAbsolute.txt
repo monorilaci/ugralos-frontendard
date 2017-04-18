@@ -1,0 +1,6 @@
+c:\users\monorilaci\documents\visual studio 2015\Projects\ugralos-frontendard\ugralos-frontendard\bin\Debug\ugralos-frontendard.exe.config
+c:\users\monorilaci\documents\visual studio 2015\Projects\ugralos-frontendard\ugralos-frontendard\bin\Debug\ugralos-frontendard.exe
+c:\users\monorilaci\documents\visual studio 2015\Projects\ugralos-frontendard\ugralos-frontendard\bin\Debug\ugralos-frontendard.pdb
+c:\users\monorilaci\documents\visual studio 2015\Projects\ugralos-frontendard\ugralos-frontendard\obj\Debug\ugralos-frontendard.csprojResolveAssemblyReference.cache
+c:\users\monorilaci\documents\visual studio 2015\Projects\ugralos-frontendard\ugralos-frontendard\obj\Debug\ugralos-frontendard.exe
+c:\users\monorilaci\documents\visual studio 2015\Projects\ugralos-frontendard\ugralos-frontendard\obj\Debug\ugralos-frontendard.pdb
